@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "//app.js\nvar className ='jquery class';",
+			"file": "app.js",
+			"file_size": 40,
+			"file_write_time": 130782380377327519,
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hp/Desktop/adsf.html",
+		"/C/Users/hp/Desktop/css/reset.css",
+		"/C/Users/hp/Desktop/css/common.css",
+		"/C/Users/hp/Desktop/css/bord.css",
+		"/C/Users/hp/Desktop/diary1.html",
+		"/C/Users/hp/Desktop/04_#_diary1_after.html",
+		"/C/Users/hp/Desktop/CSS (2)/#_resume2.html",
+		"/C/Users/hp/Desktop/HTML/06_quotation.html",
+		"/C/Users/hp/Desktop/HTML/12_#_resume1.html",
+		"/C/Users/hp/Desktop/HTML/00_helloworld.html",
+		"/C/Users/hp/Desktop/아아아.html",
+		"/C/Users/hp/Desktop/09_#_wstest1_after.html",
+		"/C/Users/hp/Desktop/12_#_resume1_after.html",
+		"/C/Users/hp/Desktop/HTML/04_#_diary1.html",
+		"/C/Users/hp/Desktop/04_#_diary1.html",
+		"/C/Users/hp/Downloads/FD_mq_A/css/fd_rwd.css",
+		"/C/Users/hp/Downloads/Fd_mq/css/fd_percent.css",
+		"/C/Users/hp/Downloads/Fd_mq/frontdesign_percent.html",
+		"/C/Users/hp/Downloads/blog_mq/css/common.css",
+		"/C/Users/hp/Downloads/frontdesign/css/fd.css",
+		"/C/Users/hp/Downloads/blog_mq/blog.html",
+		"/C/Users/hp/Downloads/frontdesign__/frontdesign_final.html",
+		"/C/Users/hp/Downloads/frontdesign__/css/fd.css",
+		"/C/Users/hp/Downloads/frontdesign2/css/fd.css",
+		"/C/Users/hp/Downloads/frontdesign/frontdesign_final.html",
+		"/C/Users/hp/Desktop/frontdesign_final.html",
+		"/C/Users/hp/Downloads/blog/test.html",
+		"/C/Users/hp/Downloads/blog/blog.html",
+		"/C/Users/hp/Downloads/blog/css/common.css",
+		"/C/Users/hp/Downloads/A_semantiecs2/em test.html",
+		"/C/Users/hp/Downloads/A_semantiecs2/css/fd_00_html5.css",
+		"/C/Users/hp/Downloads/A_semantiecs2/frontdesign_00_html5.html",
+		"/C/Users/hp/Downloads/ani/css/fd.css",
+		"/C/Users/hp/Downloads/ani/frontdesign.html",
+		"/C/Users/hp/Downloads/semantic2/frontdesign.html",
+		"/C/Users/hp/Downloads/default.html",
+		"/C/Users/hp/Downloads/semantics/test_semantics.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col4",
+			";}\n",
+			"section",
+			"sectioin",
+			"; ",
+			"col1 a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\hp\\Documents\\GitHub\\first-jquery-plugin\\jquery-class",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\hp\\Documents\\GitHub\\first-jquery-plugin\\jquery-class\\js",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/app.js",
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
